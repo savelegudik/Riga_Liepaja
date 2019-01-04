@@ -4,4 +4,5 @@
     <string name="equalsSign">=</string>
     <string name="LiepajaRiga">Liepaja - Riga</string>
     <string name="RigaLiepaja">Riga - Liepaja</string>
+    <string name="select_a_date">Select a date</string>
 </resources>
