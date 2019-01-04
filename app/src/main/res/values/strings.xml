@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"Riga &amp; Liepaja"</string>
+    <string name="insert_number">Insert number</string>
+    <string name="equalsSign">=</string>
+    <string name="LiepajaRiga">Liepaja - Riga</string>
+    <string name="RigaLiepaja">Riga - Liepaja</string>
+</resources>
